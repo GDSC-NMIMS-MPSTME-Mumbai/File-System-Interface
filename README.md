@@ -8,7 +8,9 @@ The program should read in pre defined commands and perform the appropriate oper
 We have deliberately retained some details so that there is room for improvisation and interpretation. A contributor has the option to implement any subset of the features mentioned below.
 
 
-**Use of suitable Data Structure and Algorithm should be ensured to maintain file structure. Appropriate logic and libraries should also be used for Multi Processing.**
+Use of suitable Data Structure and Algorithm should be ensured to maintain file structure. Appropriate logic and libraries should also be used for Multi Processing.
+
+**Seperate branches are available for different choices of programming languages for implementation. You may create a new branch for your choice of language if it isn't already present**
 
 ### Implement these features of an OS :
 
